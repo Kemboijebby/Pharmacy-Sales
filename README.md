@@ -4,9 +4,9 @@ _Where revenue is generated, where profitability is concentrated, and where stra
 
 ---
 
-## 🏆 Recognition  
+## Challenge context  
 
-Selected as a **winning submission in the ZoomCharts Data Challenge**, recognized for analytical depth, interactive storytelling, and clear business insights.
+This project analyzes the European pharmacy sales and profitability dataset used in the [ZoomCharts Pharmacy Sales & Profitability Data Challenge](https://www.zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/onyx-data-january-february-2026). This repository contains the Power BI report file; the official challenge page lists submissions and its winner separately. No award claim is made here.
 
 ---
 
@@ -19,7 +19,7 @@ Selected as a **winning submission in the ZoomCharts Data Challenge**, recognize
 - **Top Product Driver:** Legacy product portfolio  
 - **Primary Profit Engine:** Urban pharmacies  
 - **Dataset:** Internal challenge dataset (ZoomCharts Data Challenge)  
-- **Interactive Dashboard:** [View Power BI Report](#)  
+- **Interactive Dashboard:** [Open the Power BI report file](https://github.com/Kemboijebby/Pharmacy-Sales/blob/main/Pharmacy.pbix)  
 - **Full Analysis & Storytelling:** [Read on Medium](https://medium.com/@odzainab1/pharmacy-sales-insights-decoding-the-secrets-behind-revenue-profit-margins-and-units-sold-af45bf1351a0)  
 
 ---
@@ -110,7 +110,7 @@ Time dimension enhancements enabled:
 - Seasonal trend analysis  
 - Monthly and quarterly reporting  
 
-**Result:** A clean, structured, and analysis-ready data model.
+**Result:** The project documentation describes a structured, analysis-ready model. The source challenge dataset is not included in this repository, so readers cannot independently reproduce the reported totals from the committed files alone.
 
 ---
 
@@ -232,3 +232,8 @@ The pharmacy network is performing strongly, with clear areas for strategic impr
 ---
 
 
+
+
+## Reproducibility note
+
+The committed artifact is the Power BI `.pbix` report and supporting README; the underlying challenge dataset is not redistributed here. Treat the revenue totals and analytical findings above as reported outputs from the original analysis rather than independently re-computed figures. The report can be opened in Power BI Desktop, subject to any custom visual or licensing requirements.
