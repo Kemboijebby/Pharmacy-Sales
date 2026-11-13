@@ -20,7 +20,7 @@ This project analyzes the European pharmacy sales and profitability dataset used
 - **Primary Profit Engine:** Urban pharmacies  
 - **Dataset:** Internal challenge dataset (ZoomCharts Data Challenge)  
 - **Interactive Dashboard:** [Open the Power BI report file](https://github.com/Kemboijebby/Pharmacy-Sales/blob/main/Pharmacy.pbix)  
-- **Full Analysis & Storytelling:** [Read on Medium](https://medium.com/@odzainab1/pharmacy-sales-insights-decoding-the-secrets-behind-revenue-profit-margins-and-units-sold-af45bf1351a0)  
+- **Full Analysis & Storytelling:** [Related challenge write-up by Odunlami Zainab](https://medium.com/@odzainab1/pharmacy-sales-insights-decoding-the-secrets-behind-revenue-profit-margins-and-units-sold-af45bf1351a0)  
 
 ---
 
